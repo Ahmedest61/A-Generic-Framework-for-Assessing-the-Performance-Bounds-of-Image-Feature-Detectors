@@ -1,0 +1,2 @@
+# A-Generic-Framework-for-Assessing-the-Performance-Bounds-of-Image-Feature-Detectors
+ This open source code is the implementation of the framework presented in the following paper: A Generic Framework for Assessing the Performance Bounds of Image Feature Detectors Shoaib Ehsan, Adrian F. Clark, Ales Leonardis, Naveed ur Rehman, Ahmad Khaliq, Maria Fasli and Klaus D. McDonald-Maier  This paper is currently under review in Remote Sensing Journal and is also freely available to download from the following link:  https://arxiv.org/abs/1605.05791
